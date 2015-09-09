@@ -16,8 +16,8 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "MyLibrary"
-  s.version      = "0.0.1"
-  s.summary      = "A short description of MyLibrary."
+  s.version      = "0.1"
+  s.summary      = "My summary"
 
   s.description  = <<-DESC
                    A longer description of MyLibrary in Markdown format.
@@ -90,8 +90,8 @@ Pod::Spec.new do |s|
   #  Not including the public_header_files will make all headers public.
   #
 
-  s.source_files  = "Classes", "Classes/**/*.{h,m}"
-  s.exclude_files = "Classes/Exclude"
+  s.source_files  = "", "*.txt"
+  # s.exclude_files = "Classes/Exclude"
 
   # s.public_header_files = "Classes/**/*.h"
 

@@ -1,14 +1,3 @@
-What the fuck file
+Some code from new branch
 
-
-
-And new line here....
-
-
-
-
-new line
-
-And one more line
-ONE MORE LINE THAT SHOOULDN'T BE HERE
-And one more........................................
+HOTFIX

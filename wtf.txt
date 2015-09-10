@@ -1,9 +1,0 @@
-Some code from new branch
-
-HOTFIX
-
-<<<<<<< HEAD
-HOTFIX 2.0
-=======
-
->>>>>>> master

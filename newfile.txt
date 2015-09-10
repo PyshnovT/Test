@@ -3,8 +3,4 @@ Brand new file!
 
 and some new line
 
-Master
 
-newBranch
-
-new line. NA DMAKE LONGER

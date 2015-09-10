@@ -1,3 +1,5 @@
 Some code from new branch
 
 HOTFIX
+
+The way new WTF file

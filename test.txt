@@ -6,4 +6,8 @@ My whole new awesome test!
 
 My fourth change
 
+
 My change from first "user"
+
+My change from second "user"
+

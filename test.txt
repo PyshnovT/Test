@@ -1,5 +1,3 @@
 My first test
 
-// Wrong line!
-
-This line is much much better
+Wrong line!

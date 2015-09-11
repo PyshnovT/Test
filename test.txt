@@ -1,5 +1,3 @@
 My first test
 
 Better line
-
-ANd one new line (unwanted)
